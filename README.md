@@ -6,7 +6,8 @@ If the code is useful in your research, please cite the following paper:
 
 A. Widyadhana, C. B. P. Putra, R. Indraswari, and A. Z. Arifin, “A Bonferroni Mean Based Fuzzy K Nearest Centroid Neighbor Classifier,” J. Ilmu Komput. dan Inf., vol. 14, no. 1, pp. 65–71, 2021.
 
-https://doi.org/10.21609/jiki.v14i1.959
+<a href="https://doi.org/10.21609/jiki.v14i1.959">A Bonferroni Mean Based Fuzzy K Nearest Centroid Neighbor Classifier</a>
+
 
 # Classifier
 
