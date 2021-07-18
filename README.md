@@ -45,4 +45,4 @@ BM-FKNCN = 0,8986
 ```
 
 # License
-This project is licensed under the terms of the apache 2.0 license (as Tensorflow and derivatives). If used for research, citation would be appreciated.
+This project is licensed under the terms of the apache 2.0 license. If used for research, citation would be appreciated.
